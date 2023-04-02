@@ -1,0 +1,22 @@
+2023-04-02 22:31:37.841285 - Initialized conversion of CBT192
+2023-04-02 22:31:37.986532 - Received CBT.V504.FILE192.PDS from FILE192.XMI 
+2023-04-02 22:31:37.989020 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:31:37.990266 - Found $$README.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/$$README
+2023-04-02 22:31:37.991321 - Found $$UPLOAD.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/$$UPLOAD
+2023-04-02 22:31:37.992248 - Found $$UPLOAJ.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/$$UPLOAJ
+2023-04-02 22:31:37.993403 - Found $$UPLOAM.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/$$UPLOAM
+2023-04-02 22:31:37.994392 - Found @FILE192.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/@FILE192
+2023-04-02 22:31:37.995322 - Found ALLOC.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/ALLOC
+2023-04-02 22:31:37.996327 - Found ASMLKD.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/ASMLKD
+2023-04-02 22:31:37.997348 - Found CARR.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/CARR
+2023-04-02 22:31:37.998380 - Found CESTAE.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/CESTAE
+2023-04-02 22:31:37.999319 - Found CFRR.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/CFRR
+2023-04-02 22:31:38.000446 - Found ENDMOD.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/ENDMOD
+2023-04-02 22:31:38.001457 - Found EQUATES.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/EQUATES
+2023-04-02 22:31:38.002500 - Found ESTPARM.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/ESTPARM
+2023-04-02 22:31:38.003488 - Found EXECJCL.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/EXECJCL
+2023-04-02 22:31:38.004571 - Found GRECOV.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/GRECOV
+2023-04-02 22:31:38.005503 - Found INNERMM.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/INNERMM
+2023-04-02 22:31:38.006414 - Found MODULE.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/MODULE
+2023-04-02 22:31:38.007468 - Found SYSIN01B.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/SYSIN01B
+2023-04-02 22:31:38.008498 - Found SYSIN01C.txt (text/plain) in CBT.V504.FILE192.PDS, moved to PDS/SYSIN01C
